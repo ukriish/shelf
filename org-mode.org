@@ -1,2 +1,4 @@
-* Youtube videos
-** https://www.youtube.com/watch?v=SzA2YODtgK4
+Here are a collection of materirals to get started with org mode.
+
+** Youtube videos
+- [[https://www.youtube.com/watch?v=SzA2YODtgK4][Getting Started With Org Mode]] - [[https://harryrschwartz.com/][Harry Schwartz]]
