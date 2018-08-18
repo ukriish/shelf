@@ -2,5 +2,6 @@
 A list of blog posts, videos, exercises on various tech topics that I find useful.
 
 ** org mode
-*** videos
-- [[https://www.youtube.com/watch?v=SzA2YODtgK4][Getting Started With Org Mode]] - [[https://harryrschwartz.com/][Harry Schwartz]]: This is a getting started guide on what org mode is and some of the crazy stuff you can get done using org mode on emacs.
+  * videos
+    - [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Emacs Org-mode - a system for note-taking and project planning]] - Carsten Dominik: An introduction to emacs org mode by the creator Carsten Dominik himself. This was a part of the google teach talks 2008. This is a very simple but comprehensive talk on why org mode exists and how to use it.
+    - [[https://www.youtube.com/watch?v=SzA2YODtgK4][Getting Started With Org Mode]] - [[https://harryrschwartz.com/][Harry Schwartz]]: This is a getting started guide on what org mode is and some of the crazy stuff you can get done using org mode on emacs.
