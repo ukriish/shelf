@@ -1,51 +1,72 @@
 * shelf
 A list of blog posts, videos, exercises on various tech topics that I find useful.
 
-* to read/watch
-** distributed systems
+** Org mode
+   * [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Emacs Org-mode - a system for note-taking and project planning]]
+      Carsten Dominik: An introduction to emacs org mode by the creator
+     Carsten Dominik himself. This was a part of the google tech talks
+     2008. This is a very simple but comprehensive talk on why org mode
+     exists and how to use it.
+   * [[https://www.youtube.com/watch?v=SzA2YODtgK4][Getting Started With Org Mode]] - [[https://harryrschwartz.com/][Harry Schwartz]]
+      This is a getting started guide on what org mode is and some of the
+     crazy stuff you can get done using org mode on emacs.
+   * [[https://orgmode.org/orgguide.pdf][orgmode guide]]
+
+** Postgresql
+   * [[https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/][Five ways to paginate in Postgres, from the basic to the exotic]]  - Joe Nelson
+      An interesting and detailed blog on 5 different ways to serve
+     paginated responses while using postgresql as your datastore.
+   * [[https://www.youtube.com/watch?v=svqQzYFBPIo][Explaining the Postgres Query Optimizer]] - [[https://momjian.us/][Bruce Momjian]]
+   * [[https://www.youtube.com/watch?v=byl_CoucJE0][MVCC Unmasked]] - [[https://momjian.us/main/writings/pgsql/mvcc.pdf][slides]] - [[https://momjian.us/][Bruce Momjian]]
+   * [[https://pgtune.leopard.in.ua/#/][pgtune]]
+
+** Experimentation - A/B Testing
+   * [[https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36500.pdf][Overlapping Experiment Infrastructure: More, Better, Faster Experimentation - Google]]
+   * [[https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf][Practical Guide to Controlled Experiments on the Web: Listen to Your Customers not to the HiPPO - Microsft]]
+   * [[http://ai.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf][Controlled experiments on the web: survey and practical guide - Ron Kohavi, et al]]
+   * [[https://content.linkedin.com/content/dam/engineering/site-assets/pdfs/ABTestingSocialNetwork_share.pdf][A/B Testing Challenges in Large Scale Social Networks - Linkedin]]
+   * [[https://www.researchgate.net/publication/324889185_The_Anatomy_of_a_Large-Scale_Online_Experimentation_Platform][The Anatomy of a Large-Scale Online Experimentation Platform - Microsft]]
+   * [[https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15][Netflix Experimentaiton Platform]]
+   * [[https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166][Scaling Airbnb’s Experimentation Platform]]
+   * [[https://medium.com/airbnb-engineering/experiment-reporting-framework-4e3fcd29e6c0][Experiment Reporting Framework - Airbnb]]
+   * [[https://exp-platform.com/Documents/2017-05%20ICSE2017_CharacterizingExP.pdf][Characterizing Experimentation in Continuous Deployment: a Case Study on Bing - Microsoft]]
+   * [[https://eng.uber.com/experimentation-platform/][Building an Intelligent Experimentation Platform with Uber Engineering]]
+   * [[https://assets.ctfassets.net/zw48pl1isxmc/6bUM4v36PCuAcScwiCIcAC/d17ec7521608974479c3cf5b67f9232e/Optimizely_12.26_Yearly_Article_License.pdf][The Surprising Power of Online Experiments - Harvard Business Review]]
+   * More
+     * [[https://en.wikipedia.org/wiki/A/B_testing][A/B Testing - Wikipedia]]
+     * [[https://en.wikipedia.org/wiki/Null_hypothesis][Null Hypothesis - Wikipedia]]
+     * [[https://en.wikipedia.org/wiki/Stratified_sampling][Stratified Sampling - Wikipedia]]
+
+** Code Style Guids
+   * [[https://github.com/bbatsov/clojure-style-guide][Clojure Style Guide]] - [[https://github.com/bbatsov][@bbatsov]]
+   * [[https://github.com/golang/go/wiki/CodeReviewComments][Go Code Review Comments]]
+
+** Redis
+   * [[https://redis.io/topics/cluster-tutorial][Redis Cluster]]
+
+** System Architecture
+   * [[http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions][Documenting Architecture Decisions]] - Michael Nygard
+
+** Clojure
+   * [[http://clojure-doc.org/articles/language/concurrency_and_parallelism.html][Concurrency & Parallelism in Clojure]]
+
+** Go
+   * [[https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling/][Gophercon 2018 - Allocator Wrestling]]
+
+** MySQL
+   * [[https://grimoire.ca/mysql/choose-something-else][Choose Something Else]]
+
+** Distributed Systems
    * [[https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html][Amazon's Dynamo]]
    * [[http://firmament.io/blog/scheduler-architectures.html][Cluster Scheduler Architecture]]
-** go
-   * slides
-     * [[https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling/][Gophercon 2018 - Allocator Wrestling]]
-** experimentation platform
-   * papers
-     * [[https://content.linkedin.com/content/dam/engineering/site-assets/pdfs/ABTestingSocialNetwork_share.pdf][A/B Testing Challenges in Large Scale Social Networks - Linkedin]]
-** github collection
+   * [[https://kubernetes.io/docs/home/?path=users&persona=app-developer&level=foundational][Kubernetes Documentation]]
+
+** Github Collection
    * [[https://github.com/theanalyst/awesome-distributed-systems][Awesome Distributed Systems]]
    * [[https://github.com/binhnguyennus/awesome-scalability][Awesome Scalability]]
-** org mode
-   * [[https://orgmode.org/orgguide.pdf][orgmode guide]]
-** misc
+
+** Misc
    * [[https://samnewman.io/patterns/architectural/bff/][Backend For Frontend]] - Sam Newman
    * [[http://playbook.samaltman.com/][Startup Playbook]] - Sam Altman
    * [[https://teachyourselfcs.com/][Teach Yourself Computer Science]] - A collection of materials to help grash concepts of computer science
-
-
-* read/watched
-** org mode
-  * videos
-    * [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Emacs Org-mode - a system for note-taking and project planning]] - Carsten Dominik: An introduction to emacs org mode by the creator Carsten Dominik himself. This was a part of the google teach talks 2008. This is a very simple but comprehensive talk on why org mode exists and how to use it.
-    * [[https://www.youtube.com/watch?v=SzA2YODtgK4][Getting Started With Org Mode]] - [[https://harryrschwartz.com/][Harry Schwartz]]: This is a getting started guide on what org mode is and some of the crazy stuff you can get done using org mode on emacs.
-** postgresql
-  * blogs
-    * [[https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/][Five ways to paginate in Postgres, from the basic to the exotic]]  - Joe Nelson: An interesting and detailed blog on 5 different ways to serve paginated responses while using postgresql as your datastore.
-  * videos
-    * [[https://www.youtube.com/watch?v=svqQzYFBPIo][Explaining the Postgres Query Optimizer]] - [[https://momjian.us/][Bruce Momjian]]
-    * [[https://www.youtube.com/watch?v=byl_CoucJE0][MVCC Unmasked]] - [[https://momjian.us/main/writings/pgsql/mvcc.pdf][slides]] - [[https://momjian.us/][Bruce Momjian]]
-  * tools
-    * [[https://pgtune.leopard.in.ua/#/][pgtune]]
-** experimentation platform
-   * blogs
-     * [[https://medium.com/netflix-techblog/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15][Netflix Experimentaiton Platform]]
-** code style guids
-   * [[https://github.com/bbatsov/clojure-style-guide][Clojure Style Guide]] - [[https://github.com/bbatsov][@bbatsov]]
-   * [[https://github.com/golang/go/wiki/CodeReviewComments][Go Code Review Comments]]
-** redis
-   * [[https://redis.io/topics/cluster-tutorial][Redis Cluster]]
-** system architecture
-   * [[http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions][Documenting Architecture Decisions]] - Michael Nygard
-** clojure
-   * [[http://clojure-doc.org/articles/language/concurrency_and_parallelism.html][Concurrency & Parallelism in Clojure]]
-** mysql
-   * [[https://grimoire.ca/mysql/choose-something-else][Choose Something Else]]
+   * [[https://vincent.bernat.ch/en/blog/2014-tcp-time-wait-state-linux][TCP Time Wait state on linux]]
