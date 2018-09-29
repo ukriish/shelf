@@ -68,6 +68,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
 *** Clojure
  * [[https://github.com/bbatsov/clojure-style-guide][Clojure Style Guide]] - [[https://github.com/bbatsov][@bbatsov]]
  * [[http://clojure-doc.org/articles/language/concurrency_and_parallelism.html][Concurrency & Parallelism in Clojure]]
+ * [[https://clojure.org/guides/spec][Clojure Spec]]
  * [[https://vimeo.com/45561411][Reducers - Rich Hickey @ EuroClojure 2012]]
    A great talk by Rich Hickey on why he wrote reducers and why you would
    want to use them. His example of apples -> apple pie is a great analogy
