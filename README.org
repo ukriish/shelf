@@ -2,19 +2,19 @@
 A list of blog posts, videos, exercises on various tech topics that I find useful.
 
 ** Org mode
-   * [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Emacs Org-mode - a system for note-taking and project planning]]
-      Carsten Dominik: An introduction to emacs org mode by the creator
+   * [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Emacs Org-mode - a system for note-taking and project planning]] Carsten Dominik
+     An introduction to emacs org mode by the creator
      Carsten Dominik himself. This was a part of the google tech talks
      2008. This is a very simple but comprehensive talk on why org mode
      exists and how to use it.
    * [[https://www.youtube.com/watch?v=SzA2YODtgK4][Getting Started With Org Mode]] - [[https://harryrschwartz.com/][Harry Schwartz]]
-      This is a getting started guide on what org mode is and some of the
+     This is a getting started guide on what org mode is and some of the
      crazy stuff you can get done using org mode on emacs.
    * [[https://orgmode.org/orgguide.pdf][orgmode guide]]
 
 ** Postgresql
    * [[https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/][Five ways to paginate in Postgres, from the basic to the exotic]]  - Joe Nelson
-      An interesting and detailed blog on 5 different ways to serve
+     An interesting and detailed blog on 5 different ways to serve
      paginated responses while using postgresql as your datastore.
    * [[https://www.youtube.com/watch?v=svqQzYFBPIo][Explaining the Postgres Query Optimizer]] - [[https://momjian.us/][Bruce Momjian]]
    * [[https://www.youtube.com/watch?v=byl_CoucJE0][MVCC Unmasked]] - [[https://momjian.us/main/writings/pgsql/mvcc.pdf][slides]] - [[https://momjian.us/][Bruce Momjian]]
