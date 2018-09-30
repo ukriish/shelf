@@ -57,6 +57,12 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://www.youtube.com/watch?v=svqQzYFBPIo][Explaining the Postgres Query Optimizer]] - [[https://momjian.us/][Bruce Momjian]]
  * [[https://www.youtube.com/watch?v=byl_CoucJE0][MVCC Unmasked]] - [[https://momjian.us/main/writings/pgsql/mvcc.pdf][slides]] - [[https://momjian.us/][Bruce Momjian]]
  * [[https://pgtune.leopard.in.ua/#/][pgtune]]
+ * [[https://www.youtube.com/watch?v=xAT6OZ9Xel4][A scalable, versioned document store in PostgreSQL]]
+   This is talk at the 2018 PostgresOpen which talks about how Udacity
+   maintains their whole curiculam in a postgres database while allowing
+   for versioning of changes in their tree like data model. It's a very
+   informative talk, if not for postgres but how they modeled a git like
+   semantics in postgres
 
 *** MySQL
  * [[https://grimoire.ca/mysql/choose-something-else][Choose Something Else]]
