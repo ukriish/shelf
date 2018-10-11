@@ -52,12 +52,13 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
 
 ** Databases
 *** Postgresql
+ * [[https://www.youtube.com/watch?v=svqQzYFBPIo][Explaining the Postgres Query Optimizer]] - [[https://momjian.us/][Bruce Momjian]]
+ * [[https://www.youtube.com/watch?v=byl_CoucJE0][MVCC Unmasked]] - [[https://momjian.us/main/writings/pgsql/mvcc.pdf][slides]] - [[https://momjian.us/][Bruce Momjian]]
  * [[https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/][Five ways to paginate in Postgres, from the basic to the exotic - Joe Nelson]]
    An interesting and detailed blog on 5 different ways to serve
    paginated responses while using postgresql as your datastore.
- * [[https://www.youtube.com/watch?v=svqQzYFBPIo][Explaining the Postgres Query Optimizer]] - [[https://momjian.us/][Bruce Momjian]]
- * [[https://www.youtube.com/watch?v=byl_CoucJE0][MVCC Unmasked]] - [[https://momjian.us/main/writings/pgsql/mvcc.pdf][slides]] - [[https://momjian.us/][Bruce Momjian]]
- * [[https://pgtune.leopard.in.ua/#/][pgtune]]
+ * [[https://wiki.postgresql.org/wiki/Tuning_Your_PostgreSQL_Server][Tuning your postgresql server]]
+ * [[https://wiki.postgresql.org/wiki/Performance_Optimization][Performance Optimization]]
  * [[https://www.youtube.com/watch?v=xAT6OZ9Xel4][A scalable, versioned document store in PostgreSQL]]
    This is talk at the 2018 PostgresOpen which talks about how Udacity
    maintains their whole curriculum in a postgres database while allowing
@@ -75,6 +76,11 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
    why there could be slow queries in the first place. And lastly on to what
    are the ways these could be avoided. This is not a very specific use case
    fix my all problem guide but an overall where all to look guide.
+ * Tools
+   * [[https://pgtune.leopard.in.ua/#/][pgtune]] - Tune your postgresql instance better
+   * [[http://pgbadger.darold.net/][pgBadger]] - postgres log analyser
+   * [[https://www.postgresql.org/docs/10/static/pgbench.html][pgbench]] - benchmark postgres
+   * [[https://explain.depesz.com/][explain.depesz.com]] - better understand your query plan
 
 *** MySQL
  * [[https://grimoire.ca/mysql/choose-something-else][Choose Something Else]]
