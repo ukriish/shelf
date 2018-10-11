@@ -44,6 +44,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://exp-platform.com/Documents/2017-05%20ICSE2017_CharacterizingExP.pdf][Characterizing Experimentation in Continuous Deployment: a Case Study on Bing - Microsoft]]
  * [[https://eng.uber.com/experimentation-platform/][Building an Intelligent Experimentation Platform with Uber Engineering]]
  * [[https://assets.ctfassets.net/zw48pl1isxmc/6bUM4v36PCuAcScwiCIcAC/d17ec7521608974479c3cf5b67f9232e/Optimizely_12.26_Yearly_Article_License.pdf][The Surprising Power of Online Experiments - Harvard Business Review]]
+ * [[https://www.youtube.com/watch?v=AJX4W3MwKzU][Stanford Seminar: Peeking at A/B Tests - Why It Matters and What to Do About It]]
  * More
    * [[https://en.wikipedia.org/wiki/A/B_testing][A/B Testing - Wikipedia]]
    * [[https://en.wikipedia.org/wiki/Null_hypothesis][Null Hypothesis - Wikipedia]]
@@ -63,6 +64,17 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
    for versioning of changes in their tree like data model. It's a very
    informative talk, if not for postgres but how they modeled a git like
    semantics in postgres
+ * [[https://www.youtube.com/user/postgresopen][ANSI, Schmansi!]]
+   The not so ANSI SQL features that postgres provides that makes it a better
+   whole round database and that might nudge you into using postgres or even
+   using postgres in a better way. This is just an overall walk through of
+   such features. Quite a bit that I personally wasn't aware of.
+ * [[https://www.youtube.com/watch?v=yhOkob2PQFQ][Identifying Slow Queries and Fixing Them!]]
+   This talk revolves around methods of identifying slow queries like logs,
+   tools and in build postgres shared libs. Then it focuses on the reasons
+   why there could be slow queries in the first place. And lastly on to what
+   are the ways these could be avoided. This is not a very specific use case
+   fix my all problem guide but an overall where all to look guide.
 
 *** MySQL
  * [[https://grimoire.ca/mysql/choose-something-else][Choose Something Else]]
@@ -85,6 +97,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling/][Gophercon 2018 - Allocator Wrestling]]
 
 ** Misc
+ * [[https://www.youtube.com/watch?v=o_4EX4dPppA][The Hard Parts of Open Source - Evan Czaplicki]]
  * [[https://samnewman.io/patterns/architectural/bff/][Backend For Frontend - Sam Newman]]
  * [[http://playbook.samaltman.com/][Startup Playbook - Sam Altman]]
  * [[https://teachyourselfcs.com/][Teach Yourself Computer Science]]
