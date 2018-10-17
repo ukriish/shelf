@@ -256,24 +256,20 @@ Follow the following process to promote a backup server to the main server
    recovery.conf. Touch the file mentioned in the trigger_file config. You will find
    this along with other postgres configs. The path is usually
    /var/lib/postgresql/10/main/recovery.conf
-3. This will cause Postgres to notice the file. Postgres will the slave process and
-   recover any log files transferred from the main server that still needs
-   recovery. Rename the 'recovery.conf' file to 'recovery.done'. when that happens,
-   it is now the primary server.
 
-#+BEGIN_SCRIPT
+#+BEGIN_SRC
 $cat /var/lib/postgreql/10/main/recovery.conf
 standby_mode = 'on'
 primary_conninfo = '<connection-info>'
 trigger_file = '/tmp/postgresql.trigger.file'
 
 $touch /tmp/postgresql.trigger.file
-#+END_SCRIPT
+#+END_SRC
 
 Alternatively,
-#+BEGIN_SCRIPT
+#+BEGIN_SRC
 $su - postgres
 $pg_ctl promote
-#+END_SCRIPT
+#+END_SRC
 
 Reference: [[https://www.postgresql.org/docs/current/static/warm-standby-failover.html]]
