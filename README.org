@@ -104,6 +104,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://re-find.it/][Find clojure functions that does a given data transformation]]
  * [[http://clojure-doc.org/articles/language/concurrency_and_parallelism.html][Concurrency & Parallelism in Clojure]]
  * [[https://clojure.org/guides/spec][Clojure Spec]]
+ * [[https://8thlight.com/blog/colin-jones/2012/05/22/quoting-without-confusion.html][Quoting Without Confusion]]
  * [[https://vimeo.com/45561411][Reducers - Rich Hickey @ EuroClojure 2012]]
    A great talk by Rich Hickey on why he wrote reducers and why you would
    want to use them. His example of apples -> apple pie is a great analogy
@@ -112,6 +113,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
 *** Go
  * [[https://github.com/golang/go/wiki/CodeReviewComments][Go Code Review Comments]]
  * [[https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling/][Gophercon 2018 - Allocator Wrestling]]
+ * [[https://github.com/google/gops][google/gops - A tool to list and diagnose Go processes currently running on your system]]
 
 ** Misc
  * [[https://www.youtube.com/watch?v=o_4EX4dPppA][The Hard Parts of Open Source - Evan Czaplicki]]
