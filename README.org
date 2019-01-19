@@ -81,6 +81,10 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
    why there could be slow queries in the first place. And lastly on to what
    are the ways these could be avoided. This is not a very specific use case
    fix my all problem guide but an overall where all to look guide.
+ * [[https://devcenter.heroku.com/articles/postgresql-concurrency][PostgreSQL Concurrency with MVCC - Heroku]]
+ * [[https://blog.sentry.io/2015/07/23/transaction-id-wraparound-in-postgres.html][Transaction ID Wraparound in Postgres - Sentry]]
+ * [[https://blog.gojekengineering.com/postgres-autovacuum-tuning-394bb99fe2c0][Tuning Postgres Autovacuum for Scale - Gojek]]
+ * [[https://wiki.postgresql.org/wiki/Lock_Monitoring][Lock Monitoring - postgresql wiki]]
  * Tools
    * [[https://pgtune.leopard.in.ua/#/][pgtune]] - Tune your postgresql instance better
    * [[http://pgbadger.darold.net/][pgBadger]] - postgres log analyser
@@ -92,10 +96,12 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
 
 *** Redis
  * [[https://redis.io/topics/cluster-tutorial][Redis Cluster]]
+ * [[https://redis.io/topics/persistence][Persistence]]
 
 ** Programming Languages
 *** Clojure
  * [[https://github.com/bbatsov/clojure-style-guide][Clojure Style Guide]] - [[https://github.com/bbatsov][@bbatsov]]
+ * [[https://re-find.it/][Find clojure functions that does a given data transformation]]
  * [[http://clojure-doc.org/articles/language/concurrency_and_parallelism.html][Concurrency & Parallelism in Clojure]]
  * [[https://clojure.org/guides/spec][Clojure Spec]]
  * [[https://vimeo.com/45561411][Reducers - Rich Hickey @ EuroClojure 2012]]
