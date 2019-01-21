@@ -84,6 +84,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://devcenter.heroku.com/articles/postgresql-concurrency][PostgreSQL Concurrency with MVCC - Heroku]]
  * [[https://blog.sentry.io/2015/07/23/transaction-id-wraparound-in-postgres.html][Transaction ID Wraparound in Postgres - Sentry]]
  * [[https://blog.gojekengineering.com/postgres-autovacuum-tuning-394bb99fe2c0][Tuning Postgres Autovacuum for Scale - Gojek]]
+ * [[https://blog.2ndquadrant.com/autovacuum-tuning-basics/][Autovacuum tuning basics]]
  * [[https://wiki.postgresql.org/wiki/Lock_Monitoring][Lock Monitoring - postgresql wiki]]
  * Tools
    * [[https://pgtune.leopard.in.ua/#/][pgtune]] - Tune your postgresql instance better
