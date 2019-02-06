@@ -55,7 +55,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
    * [[https://en.wikipedia.org/wiki/Null_hypothesis][Null Hypothesis - Wikipedia]]
    * [[https://en.wikipedia.org/wiki/Stratified_sampling][Stratified Sampling - Wikipedia]]
 
-** Databases
+** Storage/Queue
 *** Postgresql
  * [[https://www.youtube.com/watch?v=svqQzYFBPIo][Explaining the Postgres Query Optimizer]] - [[https://momjian.us/][Bruce Momjian]]
  * [[https://www.youtube.com/watch?v=byl_CoucJE0][MVCC Unmasked]] - [[https://momjian.us/main/writings/pgsql/mvcc.pdf][slides]] - [[https://momjian.us/][Bruce Momjian]]
@@ -98,6 +98,14 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
 *** Redis
  * [[https://redis.io/topics/cluster-tutorial][Redis Cluster]]
  * [[https://redis.io/topics/persistence][Persistence]]
+
+*** Kafka
+ * [[https://kafka.apache.org/intro][Intro into kafka]]
+ * [[https://kafka.apache.org/documentation/#design][Kafka - design]]
+ * [[https://aws.amazon.com/blogs/big-data/best-practices-for-running-apache-kafka-on-aws/][Best practicies on running on aws]]
+ * [[https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf][Confluent kafka: The definitive guide - pdf]]
+ * [[https://docs.confluent.io/current/streams/concepts.html][Kafka streams]]
+ * [[https://docs.confluent.io/current/streams/architecture.html][Kafka stream - architecture]]
 
 ** Programming Languages
 *** Clojure
