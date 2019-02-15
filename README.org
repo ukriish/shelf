@@ -126,6 +126,12 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling/][Gophercon 2018 - Allocator Wrestling]]
  * [[https://github.com/google/gops][google/gops - A tool to list and diagnose Go processes currently running on your system]]
 
+** Leadership
+ * [[https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a][How to fail as a new engineering manager]] - [[https://news.ycombinator.com/item?id=18011381][HN]]
+ * [[http://www.defmacro.org/2014/10/03/engman.html][Engineering Management]] - [[https://news.ycombinator.com/item?id=14381264][HN]]
+ * [[https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/][Engineering management: The pendulum or the ladder]]
+ * [[https://www.oreilly.com/library/view/the-managers-path/9781491973882/][Book: The managers path]]
+
 ** Misc
  * [[https://www.youtube.com/watch?v=o_4EX4dPppA][The Hard Parts of Open Source - Evan Czaplicki]]
  * [[https://samnewman.io/patterns/architectural/bff/][Backend For Frontend - Sam Newman]]
