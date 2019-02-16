@@ -146,3 +146,4 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://www.youtube.com/watch?v=iLS6NXMXtLI][GOTO 2018 • Talking with Tech Leads • Patrick Kua]] - leadership, team, tech-lead
  * [[https://www.youtube.com/watch?v=WE9c9AZe-DY][How slack works]] - tech, messaging, architecture, distributed-systems
  * [[https://www.youtube.com/watch?v=OFjvJmS_uDo][Paying Technical Debt at Scale - Migrations @Stripe]] - tech, team, management, scale, migration, technical-debts
+ * [[https://www.youtube.com/watch?v=RtMmxqkPVug][How to take great Engineers & make them great Technical Leaders • Courtney Hemphill]] - tech, team, management, leadership
