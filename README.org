@@ -140,3 +140,9 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
    A collection of materials(books, online course etc) to help grasp the
    concepts of computer science. This mostly takes you down the general
    course material for computer science degree.
+
+** Conference talks
+ * [[https://www.youtube.com/watch?v=-U8UQzr8T4k][What Google Learned about Creating Effective Teams]] - leadership, team
+ * [[https://www.youtube.com/watch?v=iLS6NXMXtLI][GOTO 2018 • Talking with Tech Leads • Patrick Kua]] - leadership, team, tech-lead
+ * [[https://www.youtube.com/watch?v=WE9c9AZe-DY][How slack works]] - tech, messaging, architecture, distributed-systems
+ * [[https://www.youtube.com/watch?v=OFjvJmS_uDo][Paying Technical Debt at Scale - Migrations @Stripe]] - tech, team, management, scale, migration, technical-debts
