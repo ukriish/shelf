@@ -92,7 +92,8 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://justatheory.com/2012/04/postgres-use-timestamptz/][Use timestamptz]]
  * [[http://www.interdb.jp/pg/index.html][Internals of PostgreSQL]]
  * Blogs
-   * [[https://www.keithf4.com/tag/postgresql/][keithf4 - Keith Fiske]]
+   * [[https://www.keithf4.com/tag/postgresql/][Keith Fiske]]
+   * [[https://rhaas.blogspot.com/][Robert Haas]]
  * Tools
    * [[https://pgtune.leopard.in.ua/#/][pgtune]] - Tune your postgresql instance better
    * [[http://pgbadger.darold.net/][pgBadger]] - postgres log analyser
@@ -113,6 +114,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf][Confluent kafka: The definitive guide - pdf]]
  * [[https://docs.confluent.io/current/streams/concepts.html][Kafka streams]]
  * [[https://docs.confluent.io/current/streams/architecture.html][Kafka stream - architecture]]
+ * [[https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying][Log: What every engineer should know ...]] - [[https://www.youtube.com/watch?v=wKe7w_wOzSI][I love logs]]
 
 ** Programming Languages
 *** Clojure
@@ -142,7 +144,6 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://www.oreilly.com/library/view/the-managers-path/9781491973882/][Book: The managers path]]
 
 ** Misc
- * [[https://www.youtube.com/watch?v=o_4EX4dPppA][The Hard Parts of Open Source - Evan Czaplicki]]
  * [[https://samnewman.io/patterns/architectural/bff/][Backend For Frontend - Sam Newman]]
  * [[http://playbook.samaltman.com/][Startup Playbook - Sam Altman]]
  * [[https://teachyourselfcs.com/][Teach Yourself Computer Science]]
@@ -158,3 +159,13 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://www.youtube.com/watch?v=RtMmxqkPVug][How to take great Engineers & make them great Technical Leaders • Courtney Hemphill]] - tech, team, management, leadership
  * [[https://www.youtube.com/watch?v=j6ow-UemzBc][Design Microservice Architectures the Right Way]] - tech, doing-it-right, microservice
  * [[https://www.infoq.com/presentations/neflix-push-messaging-scale][Scaling Push Messaging for Millions of Devices @Netflix]] - tech, scaling, push-messaging, netflix
+ * [[https://www.youtube.com/watch?v=ymIZ5HhH0o4][Refactoring Organizations - A Netflix Study]] - tech, management, scaling-organizations
+ * [[https://www.youtube.com/watch?v=-6BsiVyC1kM][The value of values with Rich Hickey]]
+ * [[https://www.youtube.com/watch?v=ROor6_NGIWU][The language of the system - Rich Hickey]]
+ * [[https://www.youtube.com/watch?v=wASCH_gPnDw][Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure]]
+ * [[https://www.youtube.com/watch?v=o_4EX4dPppA][The Hard Parts of Open Source - Evan Czaplicki]]
+ * [[https://www.youtube.com/watch?v=f84n5oFoZBc][Hammock driven development - Rich Hickey]]
+ * [[https://www.youtube.com/watch?v=34_L7t7fD_U][Simpel made Easy - Rich Hickey]]
+ * [[https://www.youtube.com/watch?v=dGVqrGmwOAw][Clojure concurrency - Rich Hickey]]
+ * [[https://www.youtube.com/watch?v=VC_MTD68erY][One Million Clicks per Minute with Kafka and Clojure - Devon Peticolas]]
+ * [[https://www.youtube.com/watch?v=cN_DpYBzKso&t=14s][Concurrency is not parallelism - Rob Pike]]
