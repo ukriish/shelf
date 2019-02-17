@@ -86,6 +86,13 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://blog.gojekengineering.com/postgres-autovacuum-tuning-394bb99fe2c0][Tuning Postgres Autovacuum for Scale - Gojek]]
  * [[https://blog.2ndquadrant.com/autovacuum-tuning-basics/][Autovacuum tuning basics]]
  * [[https://wiki.postgresql.org/wiki/Lock_Monitoring][Lock Monitoring - postgresql wiki]]
+ * [[https://www.postgresql.org/docs/11/routine-vacuuming.html][Routine vacuuming - documentation]]
+ * [[https://www.postgresql.org/docs/11/explicit-locking.html][Explicit locking - documentation]]
+ * [[https://www.postgresql.org/docs/11/monitoring-stats.html][Monitoring stats]]
+ * [[https://justatheory.com/2012/04/postgres-use-timestamptz/][Use timestamptz]]
+ * [[http://www.interdb.jp/pg/index.html][Internals of PostgreSQL]]
+ * Blogs
+   * [[https://www.keithf4.com/tag/postgresql/][keithf4 - Keith Fiske]]
  * Tools
    * [[https://pgtune.leopard.in.ua/#/][pgtune]] - Tune your postgresql instance better
    * [[http://pgbadger.darold.net/][pgBadger]] - postgres log analyser
@@ -114,6 +121,8 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[http://clojure-doc.org/articles/language/concurrency_and_parallelism.html][Concurrency & Parallelism in Clojure]]
  * [[https://clojure.org/guides/spec][Clojure Spec]]
  * [[https://8thlight.com/blog/colin-jones/2012/05/22/quoting-without-confusion.html][Quoting Without Confusion]]
+ * [[https://github.com/rm-hull/infix][infix]] - lib
+ * [[https://github.com/rm-hull/jasentaa][jasentaa]] - lib, parser
  * [[https://vimeo.com/45561411][Reducers - Rich Hickey @ EuroClojure 2012]]
    A great talk by Rich Hickey on why he wrote reducers and why you would
    want to use them. His example of apples -> apple pie is a great analogy
@@ -147,3 +156,5 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://www.youtube.com/watch?v=WE9c9AZe-DY][How slack works]] - tech, messaging, architecture, distributed-systems
  * [[https://www.youtube.com/watch?v=OFjvJmS_uDo][Paying Technical Debt at Scale - Migrations @Stripe]] - tech, team, management, scale, migration, technical-debts
  * [[https://www.youtube.com/watch?v=RtMmxqkPVug][How to take great Engineers & make them great Technical Leaders • Courtney Hemphill]] - tech, team, management, leadership
+ * [[https://www.youtube.com/watch?v=j6ow-UemzBc][Design Microservice Architectures the Right Way]] - tech, doing-it-right, microservice
+ * [[https://www.infoq.com/presentations/neflix-push-messaging-scale][Scaling Push Messaging for Millions of Devices @Netflix]] - tech, scaling, push-messaging, netflix
