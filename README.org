@@ -146,6 +146,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
 ** Misc
  * [[https://samnewman.io/patterns/architectural/bff/][Backend For Frontend - Sam Newman]]
  * [[http://playbook.samaltman.com/][Startup Playbook - Sam Altman]]
+ * [[https://lamport.azurewebsites.net/pubs/pubs.html][Leslie Lamport's publications]]
  * [[https://teachyourselfcs.com/][Teach Yourself Computer Science]]
    A collection of materials(books, online course etc) to help grasp the
    concepts of computer science. This mostly takes you down the general
@@ -177,3 +178,8 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://www.youtube.com/watch?v=GAFZcYlO5S0][Software Architecture vs Code - Simon Brown]]
  * [[https://www.youtube.com/watch?v=8pTEmbeENF4][The Future of Programming - Bret Victor]]
  * [[https://www.youtube.com/watch?v=R9ITLdmfdLI][Keynote: Paul Graham, YCombinator]]
+ * [[https://www.youtube.com/watch?v=9QMGAtxUlAc][Principles of Technology Leadership - Bryan Cantrill]]
+ * [[https://www.youtube.com/watch?v=HxaD_trXwRE][Lexical Scanning in Go - Rob Pike]]
+ * [[https://www.youtube.com/watch?v=a1zDuOPkMSw][You and Your Research - Dr. Richard W. Hamming]]
+ * [[https://www.youtube.com/watch?v=_ahvzDzKdB0][Growing a Language - Guy Steele]]
+ * [[https://www.youtube.com/watch?v=rI8tNMsozo0][Simplicity Matters - Rich Hickey]]
