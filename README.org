@@ -144,6 +144,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://www.oreilly.com/library/view/the-managers-path/9781491973882/][Book: The managers path]]
 
 ** Misc
+ * [[https://sivers.org/book][Derek Sivers - Books read]]
  * [[https://samnewman.io/patterns/architectural/bff/][Backend For Frontend - Sam Newman]]
  * [[http://playbook.samaltman.com/][Startup Playbook - Sam Altman]]
  * [[https://lamport.azurewebsites.net/pubs/pubs.html][Leslie Lamport's publications]]
@@ -183,3 +184,5 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://www.youtube.com/watch?v=a1zDuOPkMSw][You and Your Research - Dr. Richard W. Hamming]]
  * [[https://www.youtube.com/watch?v=_ahvzDzKdB0][Growing a Language - Guy Steele]]
  * [[https://www.youtube.com/watch?v=rI8tNMsozo0][Simplicity Matters - Rich Hickey]]
+ * [[https://www.youtube.com/watch?v=fE2KDzZaxvE][Zebras All the Way Down - Bryan Cantrill]]
+ * [[https://www.youtube.com/watch?v=-zRN7XLCRhc][Fork Yeah! The Rise and Development of illumos]]
