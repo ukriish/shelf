@@ -141,6 +141,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a][How to fail as a new engineering manager]] - [[https://news.ycombinator.com/item?id=18011381][HN]]
  * [[http://www.defmacro.org/2014/10/03/engman.html][Engineering Management]] - [[https://news.ycombinator.com/item?id=14381264][HN]]
  * [[https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/][Engineering management: The pendulum or the ladder]]
+  * [[https://blog.gitprime.com/camille-fournier-on-scaling-structure-and-growing-as-an-engineering-manager/][Camille Fournier on Scaling, Structure, and Growing as an Engineering Manager]]
  * [[https://www.oreilly.com/library/view/the-managers-path/9781491973882/][Book: The managers path]]
 
 ** Misc
