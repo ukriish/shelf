@@ -142,6 +142,7 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[http://www.defmacro.org/2014/10/03/engman.html][Engineering Management]] - [[https://news.ycombinator.com/item?id=14381264][HN]]
  * [[https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/][Engineering management: The pendulum or the ladder]]
  * [[https://www.oreilly.com/library/view/the-managers-path/9781491973882/][Book: The managers path]]
+ * [[http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/][1:1s - The update the vent and the disaster]]
 
 ** Misc
  * [[https://sivers.org/book][Derek Sivers - Books read]]
