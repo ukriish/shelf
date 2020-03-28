@@ -151,6 +151,8 @@ A list of blog posts, videos, exercises on various tech topics that I find usefu
  * [[http://playbook.samaltman.com/][Startup Playbook - Sam Altman]]
  * [[https://lamport.azurewebsites.net/pubs/pubs.html][Leslie Lamport's publications]]
  * [[https://hbr.org/2010/07/how-will-you-measure-your-life][How will you measure your life?]]
+ * [[http://paulgraham.com/useful.html][How to write usefully - Paul Graham]]
+ * [[http://paulgraham.com/articles.html][Essays by Paul Graham]]
  * [[https://teachyourselfcs.com/][Teach Yourself Computer Science]]
    A collection of materials(books, online course etc) to help grasp the
    concepts of computer science. This mostly takes you down the general
